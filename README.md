@@ -5,7 +5,7 @@ This repository contains the tensorflow implementation of the below paper. The o
 
 [U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007.pdf)
 
-The model is being trained on the ECSSD dataset.
+The model has been trained on the ECSSD dataset. The weights are available at this [link](https://drive.google.com/file/d/1-K9lMWTWN8oXD3z2EEOhdIQ57iapIWv3/view?usp=sharing).
 
 If you find this useful please cite this work using:
 

@@ -1,7 +1,7 @@
 # U^2-Net (U Square Net)
 Implementation of U^2-Net((U Square Net)) architecture in TensorFlow for salient object detection and segmentation.
 
-This repository is based on the following paper : 
+This repository contains the tensorflow implementation of the below paper. The original implementation was done on PyTorch. 
 
 [U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007.pdf)
 

@@ -9,8 +9,7 @@ The model is being trained on the ECSSD dataset.
 
 If you find this useful please cite this work using:
 
-'''
-
+```
 @InProceedings{Qin_2020_PR,
 title = {U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection},
 author = {Qin, Xuebin and Zhang, Zichen and Huang, Chenyang and Dehghan, Masood and Zaiane, Osmar and Jagersand, Martin},
@@ -19,5 +18,4 @@ volume = {106},
 pages = {107404},
 year = {2020}
 }
-
-'''
+```

@@ -3,7 +3,7 @@ Implementation of U^2-Net((U Square Net)) architecture in TensorFlow for salient
 
 This repository is based on the following paper : 
 
-![U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007.pdf)
+[U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007.pdf)
 
 The model is being trained on the ECSSD dataset.
 

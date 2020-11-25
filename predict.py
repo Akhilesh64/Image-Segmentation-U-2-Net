@@ -13,13 +13,7 @@ img = np.expand_dims(img,axis=0)
 
 model = load_model('model.h5', compile=False)
 preds = model.predict(img)
-preds = tf.squeeze(preds, axis = 1)
-
-#For merging the all the frames obtained
-preds=tf.squeeze(preds, axis = -1)
-frame = np.array(preds[0,:,:])
-for i in range(len(preds)-1):
-  frame = cv2.merge(frame,np.array(preds[i+1,:,:]))
+preds = np.squeeze(preds)
 
 #For thresholding 
 for i in range(len(preds)):

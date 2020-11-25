@@ -1,5 +1,5 @@
 # U^2-Net (U Square Net)
-Implementation of U^2-Net((U Square Net)) architecture in TensorFlow for salient object detection and segmentation.
+Implementation of U^2-Net(U Square Net) architecture in TensorFlow for salient object detection and segmentation.
 
 This repository contains the tensorflow implementation of the below paper. The original implementation was done on PyTorch. 
 
@@ -7,9 +7,9 @@ This repository contains the tensorflow implementation of the below paper. The o
 
 The model has been trained on the ECSSD dataset. The main model weights are available [here](https://drive.google.com/file/d/1-K9lMWTWN8oXD3z2EEOhdIQ57iapIWv3/view?usp=sharing) and the lighter model weights are available [here](https://drive.google.com/file/d/1AzcI1ujQzOjMB7oZ8FpL9TzWLujpw7Co/view?usp=sharing).
 
-Predicted masks:
+Predicted mask                    | Original mask:
 
-![pic1](https://raw.githubusercontent.com/Akhilesh64/U-2-Net/main/predicted_masks/img1.png)  ![pic2](https://raw.githubusercontent.com/Akhilesh64/U-2-Net/main/predicted_masks/img2.png)
+![pic1](https://raw.githubusercontent.com/Akhilesh64/U-2-Net/main/predicted_masks/img1.png)       ![pic2](https://raw.githubusercontent.com/Akhilesh64/U-2-Net/main/predicted_masks/ground_truth.png)
 
 If you find this useful please cite this work using:
 

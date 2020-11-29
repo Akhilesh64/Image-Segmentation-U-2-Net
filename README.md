@@ -11,7 +11,7 @@ Predicted mask                    | Original mask:
 
 ![pic1](https://raw.githubusercontent.com/Akhilesh64/U-2-Net/main/predicted_masks/img1.png)       ![pic2](https://raw.githubusercontent.com/Akhilesh64/U-2-Net/main/predicted_masks/ground_truth.png)
 
-If you find this useful please cite this work using:
+If you find this useful please cite the original paper using:
 
 ```
 @InProceedings{Qin_2020_PR,

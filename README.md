@@ -26,4 +26,5 @@ year = {2020}
 
 
 Update (29/11/2020):
+
 Added Scripts used for training on larger datasets like DUTS which could cause memory leak. The updated scripts can be modified according to the dataset used.

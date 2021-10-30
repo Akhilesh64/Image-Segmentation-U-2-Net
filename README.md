@@ -5,7 +5,7 @@ This repository contains the tensorflow implementation of the below paper. The o
 
 [U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007.pdf)
 
-The model has been trained and tested on the DUTS and ECSSD dataset using tf v2.4.1 and keras v2.4.3. The weights can be downloaded from here : [DUTS_main](https://drive.google.com/file/d/1Xx42fiMbWzUVxt27OC4zLvnqKjPFgaGF/view?usp=sharing), [DUTS_light](https://drive.google.com/file/d/1wygI2pcW-Wczc2RGJQwvROjGOuD5_mAT/view?usp=sharing), [ECSSD_main](https://drive.google.com/file/d/1-K9lMWTWN8oXD3z2EEOhdIQ57iapIWv3/view?usp=sharing), [ECSSD_light](https://drive.google.com/file/d/1aPlkXTOsuZrx_HT9cXBC0I_hewa74Ns8/view?usp=sharing).
+The model has been trained and tested on the DUTS and ECSSD dataset using tf v2.4.1 and keras v2.4.3. The weights can be downloaded from here : [DUTS_main](https://drive.google.com/file/d/18XYx_1N9s3qQjW74UVC9aD4wgH9FAyOL/view?usp=sharing), [DUTS_light](https://drive.google.com/file/d/1KN-ZCMQ0x0zPAmqkRxZ8kmXb45unZPXE/view?usp=sharing), [ECSSD_main](https://drive.google.com/file/d/1jqmiiKczV1PuJg_zQ7l4Z1FyyzM6VZY4/view?usp=sharing), [ECSSD_light](https://drive.google.com/file/d/1sUJ-RpK18qGVKKS5eg116bpB8xS8Ld7L/view?usp=sharing).
 
 Predicted mask                    | Original mask:
 
